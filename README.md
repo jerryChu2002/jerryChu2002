@@ -17,9 +17,11 @@ I'm jerryChu2002, welcome to my GitHub profile!
 
 ## 📈 GitHub Statistics
 
-![jerryChu2002's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerryChu2002&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jerryChu2002&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jerryChu2002&layout=compact&theme=tokyonight&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jerryChu2002&theme=tokyonight) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jerryChu2002&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jerryChu2002&theme=tokyonight) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jerryChu2002&theme=tokyonight)
 
 ---
 ⭐️ From [jerryChu2002](https://github.com/jerryChu2002)
