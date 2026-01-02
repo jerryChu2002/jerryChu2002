@@ -29,3 +29,18 @@ jobs:
           COMMIT_MSG: '⚡ 更新 GitHub 活动记录'
           # 显示所有支持的事件类型
           FILTER_EVENTS: 'IssueCommentEvent,IssuesEvent,PullRequestEvent,ReleaseEvent'
+
+      - name: Remove numbering from activity list
+        run: |
+          # 使用 sed 去掉活动列表中的序号 (1. 2. 3. 等)
+          sed -i.bak -E 's/^([0-9]+\. )//' README.md
+          rm -f README.md.bak
+
+          # 检查是否有变化
+          if [[ -n $(git status -s README.md) ]]; then
+            git config --local user.email "action@github.com"
+            git config --local user.name "GitHub Action"
+            git add README.md
+            git commit -m "Remove numbering from activity list"
+            git push
+          fi
