@@ -4,8 +4,9 @@ I'm jerryChu2002, welcome to my GitHub profile!
 
 ## 🚀 About Me
 
-<!-- Add your personal introduction here -->
-- 🔭 Currently learning and exploring various interesting technologies
+- 💻 Passionate about backend development and system design
+- 📚 Currently focusing on **Golang**, **Java**, and **Python**
+- 🌱 Always learning new technologies and best practices
 - 💬 Feel free to discuss tech topics with me
 - 📫 How to reach me: via GitHub Issues or Discussions
 
@@ -17,11 +18,7 @@ I'm jerryChu2002, welcome to my GitHub profile!
 
 ## 📈 GitHub Statistics
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jerryChu2002&theme=tokyonight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jerryChu2002&theme=tokyonight) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jerryChu2002&theme=tokyonight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jerryChu2002&theme=tokyonight) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jerryChu2002&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jerryChu2002&theme=tokyonight)
 
 ---
 ⭐️ From [jerryChu2002](https://github.com/jerryChu2002)
