@@ -17,7 +17,7 @@ I'm jerryChu2002, welcome to my GitHub profile!
 ## 📊 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-🚀 Published release [v0.0.2](https://github.com/jerryChu2002/plato_im/releases/tag/v0.0.2) in [jerryChu2002/plato_im](https://github.com/jerryChu2002/plato_im)
+1. 🚀 Published release [v0.0.2](https://github.com/jerryChu2002/plato_im/releases/tag/v0.0.2) in [jerryChu2002/plato_im](https://github.com/jerryChu2002/plato_im)
 <!--END_SECTION:activity-->
 
 <br>
