@@ -1,0 +1,29 @@
+name: Update README with GitHub Activity
+
+on:
+  schedule:
+    # 每30分钟运行一次
+    - cron: "*/30 * * * *"
+  # 允许手动触发
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    # 需要写权限来更新 README
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update README with recent activity
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          # 显示最近10条活动记录
+          MAX_LINES: 10
+          # 自定义提交信息
+          COMMIT_MSG: '⚡ 更新 GitHub 活动记录'
