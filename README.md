@@ -17,6 +17,3 @@
 ## 📈 GitHub 统计
 
 <!-- 可选：你可以添加更多的统计信息，比如使用 github-readme-stats -->
-
----
-⭐️ From [jerryChu2002](https://github.com/jerryChu2002)
