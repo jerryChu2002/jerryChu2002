@@ -4,10 +4,15 @@
 
 I'm jerryChu2002, welcome to my GitHub profile!
 
+<br>
+
 ## 🚀 About Me
 
-- 💻 Passionate about backend development and system design
-- 📚 Currently focusing on **Golang**, **Java**, and **Python**
+💻 Passionate about backend development and system design
+
+📚 Currently focusing on **Golang**, **Java**, and **Python**
+
+<br>
 
 ## 📊 Recent GitHub Activity
 
@@ -15,11 +20,10 @@ I'm jerryChu2002, welcome to my GitHub profile!
 1. 🚀 Published release [v0.0.2](https://github.com/jerryChu2002/plato_im/releases/tag/v0.0.2) in [jerryChu2002/plato_im](https://github.com/jerryChu2002/plato_im)
 <!--END_SECTION:activity-->
 
+<br>
+
 ## 📈 GitHub Statistics
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jerryChu2002&theme=tokyonight)
-
----
-⭐️ From [jerryChu2002](https://github.com/jerryChu2002)
 
 </div>
