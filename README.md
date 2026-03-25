@@ -13,7 +13,7 @@ I'm jerryChu2002, welcome to my GitHub profile!
 ## 📊 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-ℹ️ Labeled issue [#2123](https://github.com/upstash/context7/issues/2123) in [upstash/context7](https://github.com/upstash/context7)
+1. ℹ️ Labeled issue [#2123](https://github.com/upstash/context7/issues/2123) in [upstash/context7](https://github.com/upstash/context7)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Statistics
